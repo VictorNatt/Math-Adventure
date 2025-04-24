@@ -1,0 +1,109 @@
+body{
+background-image: url("MTXX_MH20240502_151037513.jpg");
+background-repeat: no-repeat;
+background-size:cover;
+text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+.jersey-20-regular {
+    font-family: "Jersey 20", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+.quadro{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+.titulo{
+    color: aliceblue;
+    font-size: 60px;
+    width:400px;
+    margin-left: 880px;
+    margin-top: 350px;
+    
+}
+.tarracha{
+    margin-top: -16px;
+    font-size: 30px;
+    
+}
+.start{
+    color: rgb(255, 255, 255);
+    font-size:130px;
+    margin-left: 899px;
+    margin-top: 280px;
+}
+.FASES{
+    color: rgb(0, 0, 0);
+    margin-left:-16px;
+    font-size: 45px;
+    color: aliceblue;
+    
+}
+.menu{
+    
+    text-align: center;
+    display:flex;
+    flex-direction:column;
+     margin-left: 195px;
+     margin-top: 230px;
+     margin-right: 0px;
+   
+}
+.menu p{
+    margin-top: -15px;
+}
+.menu2{
+    display:flex;
+    flex-direction:column;
+     margin-left: 70px;
+
+}
+.fase1{
+    margin-top: 14px;
+    background-color: aliceblue;
+    width: 60px;
+    height: 80px;
+    box-shadow: 4px 3px  rgb(134, 128, 128);
+   
+}
+.fase2{
+    margin-top: 30px;
+    background-color: aliceblue; 
+    width: 60px;
+    height: 80px;
+    margin-bottom: 5px;
+    box-shadow: 4px 3px  rgb(134, 128, 128);
+}
+.fase3{
+    margin-top: -179px;
+    background-color: aliceblue;
+    width: 60px;
+    height: 80px;
+    /* margin-bottom: 5px; */
+    box-shadow: 4px 3px  rgb(134, 128, 128);
+
+}
+.fase4{
+    margin-top: -85px;
+    background-color: aliceblue;
+    width: 60px;
+    height: 80px;
+    margin-bottom: 5px;
+    box-shadow: 4px 3px  rgb(134, 128, 128);
+}
+.boss{
+    margin-top: 20px;
+    background-color: aliceblue;
+    width: 130px;
+    height: 60px;
+    margin-left: -68.9px;
+    box-shadow: 4px 3px  rgb(134, 128, 128);
+}
+
+
+
+
