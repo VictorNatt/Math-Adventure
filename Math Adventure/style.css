@@ -22,7 +22,7 @@ a{
     font-size: 60px;
     width:400px;
     margin-left: 880px;
-    margin-top: 350px;
+    margin-top: 250px;
     
 }
 .tarracha{
@@ -32,14 +32,14 @@ a{
 }
 .start{
     color: rgb(255, 255, 255);
-    font-size:130px;
-    margin-left: 899px;
-    margin-top: 280px;
+    font-size:100px;
+    margin-left: 880px;
+    margin-top: -100px;
 }
 .FASES{
     color: rgb(0, 0, 0);
     margin-left:-16px;
-    font-size: 45px;
+    font-size: 30px;
     color: aliceblue;
     
 }
